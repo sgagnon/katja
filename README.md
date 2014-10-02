@@ -6,4 +6,4 @@ Wagner Lab preprocessing pipeline for ECoG data.
 Requirements
 ---------------------------
 -  Matlab
--  SignalPreprocessingToolbox from [Stanford Memory Lab](https://github.com/WagnerLab/SignalProcessingToolbox)
+-  cosima from [Stanford Memory Lab](https://github.com/WagnerLab/cosima)
